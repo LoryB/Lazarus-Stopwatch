@@ -14,7 +14,7 @@ TStopwatch is not a class but still requires explicit initialization. Call the S
 ## Features
 
 Enhanced version by Lorenzo Bardi (LoryB) branched from master written by Inoussa OUEDRAOGO in 2012.<br>
-This version enhance elapsed properties allowing them to work properly while stopwatch is running.
+This version enhances elapsed properties allowing them to work properly while stopwatch is running.
 
 ## Installation
 
